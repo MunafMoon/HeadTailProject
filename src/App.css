@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+justify-content: center;
+text-overflow: ellipsis;
+align-items: center;
 }
 
 .App-logo {
